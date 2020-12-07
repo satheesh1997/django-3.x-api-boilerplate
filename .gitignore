@@ -1,0 +1,10 @@
+.python-version
+*.pyc
+*.sqlite3
+
+__pycache__
+.idea
+.vscode
+.theia
+
+static
